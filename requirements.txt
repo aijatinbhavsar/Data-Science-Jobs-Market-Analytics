@@ -1,0 +1,7 @@
+pandas
+regex
+jupyter
+numpy 
+matplotlib 
+seaborn 
+openpyxl
